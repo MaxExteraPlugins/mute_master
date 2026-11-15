@@ -28,7 +28,7 @@ Global mute toggle for all chat notifications with settings state backup.
 ## 📥 Installation
 
 1. Navigate to the [**Releases**](https://github.com/MaxExteraPlugins/mute_master/releases/latest) section.
-2. Download the `mute_master_v1.0.0.plugin` file.
+2. Download the `mute_master_v1.0.1.plugin` file.
 3. Send the file to your Telegram Saved Messages or open it via file manager in exteraGram / AyuGram.
 4. Tap the file in Telegram and choose **"Install plugin"**.
 

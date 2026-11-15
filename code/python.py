@@ -2,7 +2,7 @@ __id__ = "mute_master"
 __name__ = "Mute Master"
 __description__ = "Глобальное отключение/включение **всех** уведомлений одним переключателем.\n\nСохраняет ваши текущие настройки и восстанавливает их при выключении.\n\nНе требует фоновой работы."
 __author__ = "@itNotMax - @MaxExteraPlugins"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __min_version__ = "12.10.6"
 __icon__ = "MaxExteraPluginsStickers/7"
 
